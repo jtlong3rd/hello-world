@@ -1,3 +1,4 @@
-hello
-my name is Chris Penn
-I died awhile ago
+hello world!
+emacs rocks!
+(but talk about old school...)
+
